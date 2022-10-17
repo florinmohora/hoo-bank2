@@ -1,5 +1,5 @@
 import airbnb from "./airbnb.png";
-import bill from "./bill.png";
+import bill from "./Group 31.png";
 import binance from "./binance.png";
 import card from "./card.png";
 import coinbase from "./coinbase.png";
@@ -24,6 +24,12 @@ import people01 from "./people01.png";
 import people02 from "./people02.png";
 import people03 from "./people03.png";
 import pula from "./image 2.png";
+import ars from "./ars.png";
+import ac from "./ac.png";
+import bodo from "./bodo.png";
+import nice from "./nice.png";
+import manch from "./manch.png";
+import slo from "./slo.png"
 
 export {
   airbnb,
@@ -52,4 +58,10 @@ export {
   people02,
   pula,
   people03,
+  ars,
+  ac,
+  bodo,
+  nice,
+  manch,
+  slo,
 };
