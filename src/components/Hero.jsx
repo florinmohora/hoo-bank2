@@ -26,9 +26,8 @@ const Hero = () => {
           Betting Service.
         </h1>
         <p className={`${styles.paragraph} max-w-[470px] mt-5`} data-aos="fade-in" data-aos-duration="1500">
-          Our team of experts uses a methodology to identify the credit cards
-          most likely to fit your needs. We examine annual percentage rates,
-          annual fees.
+          Our expert tipster uses a methodology to identify the winning matches consistently in 75% of parley bets and over 93% in the case of single matches.
+          
         </p>
       </div>
 

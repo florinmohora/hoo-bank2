@@ -22,13 +22,12 @@ const Business = () =>  (
   <section id="features" className={layout.section}>
     <div className={layout.sectionInfo} data-aos="zoom-in">
       <h2 className={styles.heading2}>
-        You do the business, <br className="sm:block hidden" /> we’ll handle
-        the money.
+        You do the betting, <br className="sm:block hidden" /> we’ll handle
+        the analysis.
       </h2>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-        With the right credit card, you can improve your financial life by
-        building credit, earning rewards and saving money. But with hundreds
-        of credit cards on the market.
+        With the right tipster you can improve your financial life by
+        placing winning bets, potentially earning a lot of money. We can help you achieve that with over 7 years of experience in the market.
       </p>
 
       <Button styles={`mt-10`} />
