@@ -8,10 +8,10 @@ const CTA = () => (
       <div className="space-y-8 lg:grid lg:grid-cols-3 sm:gap-6 xl:gap-10 lg:space-y-0">
          
           <div className="flex flex-col p-6 mx-auto max-w-lg text-center text-white bg-black-gradient-2 rounded-lg   shadow  xl:p-8 ">
-          <h3 class="mb-4 font-poppins font-semibold text-[33px] leading-[32px] text-white">Herman Jensen</h3>
-              <p className="font-poppins font-normal text-dimWhite text-[18px] leading-[30.8px] text-white sm:text-lg">Best option for personal use & for your next project.</p>
+          <h3 class="mb-4 font-poppins font-semibold text-[33px] leading-[32px] text-white">3 Months</h3>
+              <p className="font-poppins font-normal text-dimWhite text-[18px] leading-[30.8px] text-white sm:text-lg">Relevant for multiple users, extended & premium support.</p>
               <div className="flex justify-center items-baseline my-8">
-                  <span className="mr-2 text-5xl font-extrabold">$29</span>
+                  <span className="mr-2 text-5xl font-extrabold">$40</span>
                   <span className="text-white">/month</span>
               </div>
      
@@ -39,11 +39,11 @@ const CTA = () => (
               </ul>
 <Button />          </div>
           <div className="flex flex-col p-6 mx-auto max-w-lg text-center text-white bg-black-gradient-2 rounded-lg  border border-sky-400 shadow-sky-400 shadow-2xl  xl:p-8  text-white">
-          <h3 class="mb-4 font-poppins font-semibold text-[33px] leading-[32px] text-white">Herman Jensen</h3>
-              <p className="font-poppins font-normal text-dimWhite text-[18px] leading-[30.8px] text-white sm:text-lg text-white">Relevant for multiple users, extended & premium support.</p>
+          <h3 class="mb-4 font-poppins font-semibold text-[33px] leading-[32px] text-white">1 Week</h3>
+              <p className="font-poppins font-normal text-dimWhite text-[18px] leading-[30.8px] text-white sm:text-lg text-white">Free one time trial for new members</p>
               <div className="flex justify-center items-baseline my-8">
-                  <span className="mr-2 text-5xl font-extrabold">$99</span>
-                  <span className="text-white" text-white>/month</span>
+                  <span className="mr-2 text-5xl font-extrabold">$0</span>
+                  <span className="text-white" text-white>/week</span>
               </div>
               <ul role="list" className="mb-8 space-y-4 text-left">
                   <li className="flex items-center space-x-3">
@@ -69,10 +69,10 @@ const CTA = () => (
               </ul>
 <Button link="https://google.com"/>          </div>
           <div className="flex flex-col p-6 mx-auto max-w-lg text-center text-white bg-black-gradient-2 rounded-lg   shadow  xl:p-8  text-white">
-          <h3 class="mb-4 font-poppins font-semibold text-[33px] leading-[32px] text-white">Herman Jensen</h3>
+          <h3 class="mb-4 font-poppins font-semibold text-[33px] leading-[32px] text-white">1 Month</h3>
               <p className="font-poppins font-normal text-dimWhite text-[18px] leading-[30.8px] text-white sm:text-lg text-white">Best for large scale uses and extended redistribution rights.</p>
               <div className="flex justify-center items-baseline my-8">
-                  <span className="mr-2 text-5xl font-extrabold">$499</span>
+                  <span className="mr-2 text-5xl font-extrabold">$50</span>
                   <span className="text-white">/month</span>
               </div>
               <ul role="list" className="mb-8 space-y-4 text-left">

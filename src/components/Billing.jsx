@@ -14,13 +14,10 @@ const Billing = () => (
 
     <div className={layout.sectionInfo} data-aos="fade-up" data-aos-delay="150">
       <h2 className={styles.heading2}>
-        Easily controsl your <br className="sm:block hidden" /> billing &
-        invoicing
+        From zero to winner <br className="sm:block hidden" /> with our sports tipster
       </h2>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-        Elit enim sed massa etiam. Mauris eu adipiscing ultrices ametodio
-        aenean neque. Fusce ipsum orci rhoncus aliporttitor integer platea
-        placerat.
+        With the experience of our tipster you can go from not knowing what soccer is to making a lifelong income stream for yourself in less than a month!
       </p>
 
     </div>
