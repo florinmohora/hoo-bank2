@@ -6,12 +6,10 @@ const CardDeal = () => (
   <section className={layout.section}>
     <div className={layout.sectionInfo} data-aos="fade-up">
       <h2 className={styles.heading2}>
-        Find a better card deal <br className="sm:block hidden" /> in few easy
-        steps.
+        Improve your statistics <br className="sm:block hidden" /> from day one.
       </h2>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-        Arcu tortor, purus in mattis at sed integer faucibus. Aliquet quis
-        aliquet eget mauris tortor.ç Aliquet ultrices ac, ametau.
+        There's no setup involved on our part, as long as you have an account open with a betting agency, you can start making profit from the first day you become a member!
       </p>
 
       <Button styles={`mt-10`} />
