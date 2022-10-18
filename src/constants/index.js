@@ -41,9 +41,9 @@ export const features = [
   {
     id: "feature-3",
     icon: send,
-    title: "Balance Transfer",
+    title: "Safe predictions with high odds",
     content:
-      "A balance transfer credit card can save you a lot of money in interest charges.",
+      "Our predictions are usually safe parleys composed of 2 or 3 matches with total odds usually landing above 2.00. If the community wants, we can also give higher risk predictions.",
   },
 ];
 
