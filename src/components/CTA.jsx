@@ -4,7 +4,7 @@ import GetStarted from "./GetStarted";
 
 const CTA = () => (
 <section className="" id="price">
-  <div className="py-8 px-4 mx-auto max-w-screen-xl lg:py-16 lg:px-6">
+  <div className="py-12 px-4 mx-auto max-w-screen-xl lg:py-16 lg:px-6">
       <div className="space-y-8 lg:grid lg:grid-cols-3 sm:gap-6 xl:gap-10 lg:space-y-0">
          
           <div className="flex flex-col p-6 mx-auto max-w-lg text-center text-white bg-black-gradient-2 rounded-lg   shadow  xl:p-8 ">
