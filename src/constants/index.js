@@ -27,16 +27,16 @@ export const features = [
   {
     id: "feature-1",
     icon: star,
-    title: "Rewards",
+    title: "Bankroll Management",
     content:
-      "The best credit cards offer some tantalizing combinations of promotions and prizes",
+      "You come to us a with a bankroll, we'll manage it to ensure you make profit. Predictions will be given out with a % to bet from your bankroll.",
   },
   {
     id: "feature-2",
     icon: shield,
-    title: "100% Secured",
+    title: "1 Week Free Trial",
     content:
-      "We take proactive steps make sure your information and transactions are secure.",
+      "With our one week free trial you can make sure that we do what we claim, without spending a single cent. You can bet on all predictions during this trial and pay for the membership with the money you've earned! Making it free!",
   },
   {
     id: "feature-3",
@@ -87,8 +87,8 @@ export const stats = [
   },
   {
     id: "stats-3",
-    title: "Transaction",
-    value: "$230M+",
+    title: "Winnings",
+    value: "$100K+",
   },
 ];
 
