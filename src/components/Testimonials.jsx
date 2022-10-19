@@ -12,8 +12,7 @@ const Testimonials = () => (
       </h2>
       <div className="w-full md:mt-0 mt-6">
         <p className={`${styles.paragraph} text-left max-w-[450px]`}>
-          Everything you need to accept card payments and grow your business
-          anywhere on the planet.
+          We are offering a 1 Week Free Trial for you to try out the service before buying it. All sales are final.
         </p>
       </div>
     </div>
