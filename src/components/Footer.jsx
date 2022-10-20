@@ -11,8 +11,6 @@ const Footer = () => (
           className="w-[266px] h-[72.14px] object-contain"
         />
       </div>
-
-
     </div>
 
     <div className="w-full items-center md:flex-row flex-col pt-6 border-t-[1px] border-t-[#3F3E45]">

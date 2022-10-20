@@ -1,10 +1,25 @@
-import { people01, people02, people03, facebook, instagram, linkedin, twitter, airbnb, binance, coinbase, dropbox, send, shield, star  } from "../assets";
+import {
+  people01,
+  people02,
+  people03,
+  facebook,
+  instagram,
+  linkedin,
+  twitter,
+  airbnb,
+  binance,
+  coinbase,
+  dropbox,
+  send,
+  shield,
+  star,
+} from "../assets";
 
 export const navLinks = [
   {
     id: "contact",
     title: "Start Trial",
-  }
+  },
 ];
 
 export const features = [
@@ -62,7 +77,7 @@ export const stats = [
   {
     id: "stats-1",
     title: "Years of Experience",
-    value: "7+",
+    value: "15+",
   },
   {
     id: "stats-2",

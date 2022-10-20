@@ -2,11 +2,15 @@ import styles from "../style";
 import Button from "./Button";
 
 const Contact = () => (
-  <section id="contact" className={`${styles.flexCenter} ${styles.marginY} ${styles.padding} sm:flex-row flex-col bg-black-gradient-2 rounded-[20px] box-shadow`}>
+  <section
+    id="contact"
+    className={`${styles.flexCenter} ${styles.marginY} ${styles.padding} sm:flex-row flex-col bg-black-gradient-2 rounded-[20px] box-shadow`}
+  >
     <div className="flex-1 flex flex-col">
       <h2 className={styles.heading2}>Start your free trial now!</h2>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-        Click on the Get Started button and sign up for our free trial! This is a one time free trial so make the most out of it! 
+        Click on the Get Started button and sign up for our free trial! This is
+        a one time free trial so make the most out of it!
       </p>
     </div>
 

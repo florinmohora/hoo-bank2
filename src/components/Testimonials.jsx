@@ -3,16 +3,23 @@ import styles from "../style";
 import FeedbackCard from "./FeedbackCard";
 
 const Testimonials = () => (
-  <section id="clients" className={`${styles.paddingY} ${styles.flexCenter} flex-col relative `}>
+  <section
+    id="clients"
+    className={`${styles.paddingY} ${styles.flexCenter} flex-col relative `}
+  >
     <div className="absolute z-[0] w-[60%] h-[60%] -right-[50%] rounded-full blue__gradient bottom-40" />
 
-    <div className="w-full flex justify-between items-center md:flex-row flex-col sm:mb-16 mb-6 relative z-[1]" data-aos="fade-up">
+    <div
+      className="w-full flex justify-between items-center md:flex-row flex-col sm:mb-16 mb-6 relative z-[1]"
+      data-aos="fade-up"
+    >
       <h2 className={styles.heading2}>
         Affordable Pricing <br className="sm:block hidden" /> made for you
       </h2>
       <div className="w-full md:mt-0 mt-6">
         <p className={`${styles.paragraph} text-left max-w-[450px]`}>
-          We are offering a 1 Week Free Trial for you to try out the service before buying it. All sales are final.
+          We are offering a 1 Week Free Trial for you to try out the service
+          before buying it. All sales are final.
         </p>
       </div>
     </div>

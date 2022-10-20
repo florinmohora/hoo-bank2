@@ -29,7 +29,7 @@ import ac from "./ac.png";
 import bodo from "./bodo.png";
 import nice from "./nice.png";
 import manch from "./manch.png";
-import slo from "./slo.png"
+import slo from "./slo.png";
 
 export {
   airbnb,
