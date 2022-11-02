@@ -42,7 +42,7 @@ const Business = () => (
         achieve that with over 15 years of experience in the market.
       </p>
 
-      <Button styles={`mt-10`} />
+      <Button styles={`mt-10`} text="Start now!" link="#price" />
     </div>
 
     <div className={`${layout.sectionImg} flex-col`}>

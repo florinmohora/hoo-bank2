@@ -104,7 +104,10 @@ const CTA = () => (
               </span>
             </li>
           </ul>
-          <Button />{" "}
+          <Button
+            link="https://commerce.coinbase.com/checkout/a3adb3f6-51f6-4eac-af4c-d48787cf05c5"
+            text="Buy now"
+          />{" "}
         </div>
         <div className="flex flex-col p-6 mx-auto max-w-lg text-center text-white bg-black-gradient-2 rounded-lg  border border-sky-400 shadow-sky-400 shadow-2xl  xl:p-8  text-white">
           <h3 class="mb-4 font-poppins font-semibold text-[33px] leading-[32px] text-white">
@@ -206,7 +209,7 @@ const CTA = () => (
               </span>
             </li>
           </ul>
-          <Button link="https://google.com" />{" "}
+          <Button link="#contact" text="Buy now" />{" "}
         </div>
         <div className="flex flex-col p-6 mx-auto max-w-lg text-center text-white bg-black-gradient-2 rounded-lg   shadow  xl:p-8  text-white">
           <h3 class="mb-4 font-poppins font-semibold text-[33px] leading-[32px] text-white">
@@ -306,7 +309,12 @@ const CTA = () => (
               </span>
             </li>
           </ul>
-          <Button />{" "}
+          <Button
+            link={
+              "https://commerce.coinbase.com/checkout/b9678ed0-ea6b-4801-800b-11c9558f0da1"
+            }
+            text="Buy now"
+          />{" "}
         </div>
       </div>
     </div>

@@ -23,6 +23,12 @@ const Navbar = () => {
             <a href={`#${nav.id}`}>{nav.title}</a>
           </li>
         ))}
+        <li className="font-poppins font-normal cursor-pointer text-[16px] text-dimWhite ml-10 hover:text-white">
+          <a href="https://app.bet-analytix.com/bankroll/813143">Spreadsheet</a>
+        </li>
+        <li className="font-poppins font-normal cursor-pointer text-[16px] text-dimWhite ml-10 hover:text-white">
+          <a href="https://t.me/archbetcioadv">Contact</a>
+        </li>
       </ul>
 
       <div className="sm:hidden flex flex-1 justify-end items-center">
@@ -50,6 +56,14 @@ const Navbar = () => {
                 <a href={`#${nav.id}`}>{nav.title}</a>
               </li>
             ))}
+            <li className="font-poppins font-normal cursor-pointer text-[16px] text-dimWhite mt-4 hover:text-white">
+              <a href="https://app.bet-analytix.com/bankroll/813143">
+                Spreadsheet
+              </a>
+            </li>
+            <li className="font-poppins font-normal cursor-pointer text-[16px] text-dimWhite mt-4 hover:text-white">
+              <a href="https://t.me/archbetcioadv">Contact</a>
+            </li>
           </ul>
         </div>
       </div>

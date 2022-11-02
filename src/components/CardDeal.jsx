@@ -14,7 +14,7 @@ const CardDeal = () => (
         day you become a member!
       </p>
 
-      <Button styles={`mt-10`} />
+      <Button styles={`mt-10`} text="Ready to join?" link="#price" />
     </div>
 
     <div className={layout.sectionImg}>
